@@ -39,3 +39,4 @@ git config --local user.email "lucasguillermoferreyra@gmail.com"
  > Me muestra las fotos o los commits que tengo en el repositorio 
 
   git log
+  git log --oneline
