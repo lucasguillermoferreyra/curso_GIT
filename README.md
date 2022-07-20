@@ -1,4 +1,5 @@
-# Curso de Git Desarrollo colaborativo
+# Curso Git Desarrollo Colaborativo
 
-- [x] - Clase 01
-- [] - Clase 02
+- [x] Clase 01
+- [x] Clase 02
+- [] Clase 03
