@@ -5,4 +5,4 @@
 - [x] Clase 03
 - [x] Clase 04
 - [x] Clase 05
-- [] Clase 06
+- [X] Clase 06
